@@ -1,0 +1,14 @@
+
+
+langchain
+langchain-core
+langchain-community
+langchain-experimental==0.0.29
+langchain-google-genai
+duckduckgo-search
+ddgs
+mlflow
+spacy
+textstat
+python-dotenv
+pydantic
